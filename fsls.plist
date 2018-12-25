@@ -31,7 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>tradefsls</string>
 				<key>bundle-version</key>
+<<<<<<< HEAD
 				<string>3.3.10.33</string>
+=======
+				<string>版3.3.10.33</string>
+>>>>>>> 04dee34358ada13571373d257a806f363a2acee6
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
