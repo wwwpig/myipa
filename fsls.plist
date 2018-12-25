@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>fsls</string>
+				<string>tradefsls</string>
 				<key>bundle-version</key>
 				<string>版3.3.10.33</string>
 				<key>kind</key>
